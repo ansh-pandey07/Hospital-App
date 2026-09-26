@@ -1,0 +1,6 @@
+{
+  "name": "Ratan Lal Hospital",
+  "description": "A elegant and modern patient portal featuring high-quality care, specialized services, automated booking calendars, patient care guidelines, and medical facilities.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
